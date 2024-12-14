@@ -1,8 +1,6 @@
 // lib/src/screens/home/home_screen.dart
 
 import 'package:flutter/material.dart';
-import '../todo/todo_screen.dart';
-import '../pomodoro/pomodoro_screen.dart';
 import '../../widgets/noise_indicator.dart';
 
 class HomeScreen extends StatelessWidget {

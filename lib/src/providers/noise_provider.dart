@@ -1,7 +1,6 @@
 // lib/src/providers/noise_provider.dart
 
 import 'package:flutter/material.dart';
-import '../models/noise_level.dart';
 import '../services/audio_service.dart';
 import '../services/notification_service.dart';
 

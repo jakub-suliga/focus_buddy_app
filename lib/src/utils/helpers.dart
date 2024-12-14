@@ -1,6 +1,5 @@
 // lib/src/utils/helpers.dart
 
-import 'package:intl/intl.dart';
 
 class Helpers {
   // Formatierung der verbleibenden Zeit für den Pomodoro-Timer
